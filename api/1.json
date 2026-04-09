@@ -33,7 +33,7 @@
 		},
 		{
 			"key": "配置中心",
-			"name": "云盘┃配置",
+			"name": "网盘┃配置",
 			"type": 3,
 			"api": "csp_Config",
 			"searchable": 0,
